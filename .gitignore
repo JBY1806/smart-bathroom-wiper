@@ -1,0 +1,5 @@
+.DS_Store
+*.jou
+*.log
+xsim.dir/
+__pycache__/
